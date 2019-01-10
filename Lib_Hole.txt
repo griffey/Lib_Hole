@@ -1,0 +1,16 @@
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via Github
+#
+# Date: 10 January 2019 
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/griffey/Lib_Hole.txt
+# Project home page: https://github.com/griffey/Lib_Hole
+#
+# ===============================================================
+# Start Blocklist
+
+#=====================================
+# Hosts contributed by Jason Griffey
+# http://jasongriffey.net
+
+0.0.0.0 device-metrics-us-2.amazon.com
