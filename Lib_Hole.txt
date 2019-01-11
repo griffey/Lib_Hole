@@ -38,3 +38,13 @@
 0.0.0.0 htmlads.s3.amazonaws.com
 0.0.0.0 mondoads.s3.amazonaws.com
 0.0.0.0 vml1.s3.amazonaws.com
+0.0.0.0 video-stats.video.google.com
+0.0.0.0 adservice.google.ca
+0.0.0.0 adservice.google.com
+0.0.0.0 adservice.google.com.au
+0.0.0.0 adservices.google.com
+0.0.0.0 googleads4.g.doubleclick.net
+0.0.0.0 partnerad.l.doubleclick.net
+0.0.0.0 pagead-googlehosted.l.google.com
+0.0.0.0 analytics.google.com
+0.0.0.0 pagead.l.google.com
