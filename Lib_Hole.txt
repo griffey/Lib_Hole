@@ -1,4 +1,4 @@
-# This hosts file is a merged collection of hosts from reputable sources,
+# This hosts file is a collection of domains started by Jason Griffey
 # with a dash of crowd sourcing via Github
 #
 # Date: 10 January 2019 
