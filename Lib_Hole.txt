@@ -14,3 +14,27 @@
 # http://jasongriffey.net
 
 0.0.0.0 device-metrics-us-2.amazon.com
+0.0.0.0 device-metrics-us.amazon.com
+0.0.0.0 aan.amazon.com
+0.0.0.0 aax.amazon-adsystem.com
+0.0.0.0 aax-cpm.amazon-adsystem.com
+#0.0.0.0 aax-eu.amazon-adsystem.com 	# may interfere with Amazon ad preferences
+0.0.0.0 aax-us-east.amazon-adsystem.com
+0.0.0.0 aax-us-pdx.amazon-adsystem.com
+0.0.0.0 adagiobanner.s3.amazonaws.com
+0.0.0.0 amazon-adsystem.com
+0.0.0.0 fls-na.amazon-adsystem.com
+0.0.0.0 fls-na.amazon.com
+0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
+0.0.0.0 mobileanalytics.us-east-2.amazonaws.com
+0.0.0.0 mobileanalytics.us-west-1.amazonaws.com
+0.0.0.0 mobileanalytics.us-west-2.amazonaws.com
+0.0.0.0 rcm-images.amazon.com
+0.0.0.0 rcm-it.amazon.it
+0.0.0.0 rcm-na.amazon-adsystem.com
+0.0.0.0 uedata.amazon.com
+0.0.0.0 rcm.amazon.com
+0.0.0.0 admarvel.s3.amazonaws.com
+0.0.0.0 htmlads.s3.amazonaws.com
+0.0.0.0 mondoads.s3.amazonaws.com
+0.0.0.0 vml1.s3.amazonaws.com
