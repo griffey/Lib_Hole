@@ -3,7 +3,7 @@
 #
 # Date: 10 January 2019 
 #
-# Fetch the latest version of this file: https://raw.githubusercontent.com/griffey/Lib_Hole.txt
+# Fetch the latest version of this file: https://raw.githubusercontent.com/griffey/Lib_Hole/master/Lib_Hole.txt
 # Project home page: https://github.com/griffey/Lib_Hole
 #
 # ===============================================================
